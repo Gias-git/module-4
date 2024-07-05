@@ -10,3 +10,52 @@ footer{
     text-align: center;
     margin-top: 30px;
 }
+
+
+.Search {
+    align-items: center;
+    margin: 50px;
+}
+.Kung-Fu > img{
+    height: 200px;
+    width: auto;
+}
+form{
+    padding: 30px;
+    font-size: 15px;
+    margin-left: 30px;
+    background-color: rgb(229, 231, 231);
+}
+
+form>label{
+    display: block;
+    margin: 1px;
+}
+
+.formsection{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+.formsection label{
+    display: block;
+    margin-top: 20px;
+}
+header{
+    background-color: beige;
+    margin: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+.main{
+    display: flex;
+}
+#submit{
+    margin-top: 10px;
+    padding: 2px;
+    font-size: 20px;
+    font-weight: lighter;
+}
